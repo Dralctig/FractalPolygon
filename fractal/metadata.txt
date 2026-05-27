@@ -6,14 +6,14 @@
 name=FractalPolygon
 qgisMinimumVersion=3.0
 description=Tranform simple polygons into fractal polygons
-version=1
+version=1.0
 author=Fragmentos Olvidados Software
 email=denet.demina@gmail.com
 
 about=Tranform simple polygons into fractal polygons
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/Dralctig/FractalPolygon/issues
+repository=https://github.com/Dralctig/FractalPolygon/
 # End of mandatory metadata
 
 # Recommended items:
@@ -23,7 +23,7 @@ hasProcessingProvider=no
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=python,fractal,geometry,polygon,processing,midpoint,line,curve
 
 homepage=http://homepage
 category=Plugins
